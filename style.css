@@ -18,7 +18,7 @@ body{
     'section section section section'
     'article article article aside'
     'footer footer footer footer';
-    grid-gap: 7px;
+    grid-gap: 3px;
 }
 Header{
     background-color: whitesmoke;
@@ -51,7 +51,7 @@ nav a{
     color: gray;
     padding: 10px;
     text-decoration: none;
-    margin: 0 90px 0 90px;
+    margin: 0 100px 0 100px;
 }
 nav a:hover{
     color: red;
