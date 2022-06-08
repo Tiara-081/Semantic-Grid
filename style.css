@@ -34,7 +34,7 @@ section {
     padding: 20px;
     grid-area: section;
 }
-section h1, footer h1{
+header h1, footer h1{
     text-align: center;
 }
 article h1, aside h1{
