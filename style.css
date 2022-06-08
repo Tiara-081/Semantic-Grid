@@ -34,9 +34,7 @@ section {
     padding: 20px;
     grid-area: section;
 }
-header h1, footer h1{
-    text-align: center;
-}
+
 article h1, aside h1{
     font-weight: bold;
 }
@@ -73,6 +71,7 @@ aside{
 
 footer{
     background-color: whitesmoke;
+    text-align: center;
     padding: 20px;
     grid-area: footer;
 }
